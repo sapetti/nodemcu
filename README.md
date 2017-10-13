@@ -1,5 +1,5 @@
 # NodeMCU
-Some projects/test created for NodeMCU board.
+Some projects/test created for [NodeMCU](http://nodemcu.com/index_en.html) board.
 
 ## Builds
 The following is a handy place to generate your custom builds including all the modules you need, such as MQTT, WIFI, DHT...  and the documentation of them.
